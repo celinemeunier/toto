@@ -1,0 +1,4 @@
+services:
+#    imie_toto.example:
+#        class: Imie\TotoBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

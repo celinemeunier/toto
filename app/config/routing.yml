@@ -1,0 +1,10 @@
+imie_toto:
+    resource: "@ImieTotoBundle/Controller/"
+    type:     annotation
+    prefix:   /
+    
+
+    
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
